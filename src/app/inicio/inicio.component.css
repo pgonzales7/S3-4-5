@@ -1,0 +1,43 @@
+
+.titulo {
+  width: 50%;
+  margin: auto;
+  color: #d2d8f9;
+}
+
+.titulo h1 {
+  font-size: 10rem;
+  margin-bottom: 1rem;
+  font-family: Bellefair, serif;
+  color: #fff;
+}
+
+.titulo p {
+  text-align: justify;
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 250px;
+  background-color: #fff;
+  border-radius: 50%;
+  margin: auto;
+}
+
+p{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  
+}
+.explore {
+  font-size: 32px;
+  font-family: Bellefair;
+  color: rgb(0, 0, 0);
+}
+

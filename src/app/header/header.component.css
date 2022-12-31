@@ -1,0 +1,44 @@
+.logo{
+  padding: 0 3rem;
+}
+
+header{
+  top: 50px;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.line {
+  height: 1px;
+  width: 55%;
+  background: gray;
+  top: 10%;
+  left: 10%;
+  z-index: 2;
+}
+.fondo {
+  background: rgba(126, 124, 124, 0.04);
+  backdrop-filter: blur(55px);
+  backdrop-filter: blur(40px);
+  align-items: center;
+  width: 40%;
+  height: 50%;
+}
+.img{
+  margin-left: 100px;
+}
+ul{
+  display: flex;
+  margin-top: 20px;
+  margin-right: 40px;
+}
+li{
+  list-style-type: none;
+  margin-left: 60px;
+}
+a{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
